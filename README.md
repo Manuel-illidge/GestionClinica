@@ -2,7 +2,6 @@
 Proyecto para gestión de clínica. Politécnico Grancolombiano. Php
 Ingenieria de Software - Integracion continua.
 
-Maria Isabel Martinez Jaramillo, Código: 1720660022
 Manuel Alfonso Illidge Ramírez, Código: 1811980446
 Ivan Alexander Castro Melo, Código: 1811980480
 
